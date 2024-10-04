@@ -2,10 +2,11 @@
 
 Este documento interno tem o objetivo de acompanhar o progresso do projeto Visual Graphs e delinear os próximos passos de desenvolvimento.
 
-Regra:
+Regras:
  - separar em dias.
  - ter tópico de próximos passos com datas.
  - anotar por reunião
+ - commits e nomes de arquivo e etc. em inglês, documentação interna em português
 
 ---
 
