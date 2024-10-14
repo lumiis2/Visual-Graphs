@@ -5,3 +5,9 @@ Este documento tem como objetivo armazenar os links, bibliotecas e projetos nos 
 ## Rascunho
 
 Site: draw.io [Link](https://app.diagrams.net/)
+
+Projetos que achei massa no Github - _Luisa_
+
+So visuais legais (nao vai ser mt util nn) https://github.com/graphistry/pygraphistry
+
+![alt text](image.png)
